@@ -12,4 +12,4 @@ Screens:
 * Course Detail Screen
 
 Figma Link:
-PASTE YOUR FIGMA LINK HERE
+https://www.figma.com/design/kZZ5JpQGfd2kFuE8FJZPET/Untitled?node-id=1-52&t=tkU4etx4sZ1u2ejz-1
